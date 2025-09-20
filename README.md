@@ -3,7 +3,7 @@ Ce projet à pour but de faire de la reconnaissance de caractères.
 
 # Bases du programme 
 Python : 3.8
-Tesseract-ocr : https://github.com/tesseract-ocr/tesseract?tab=readme-ov-file#installing-tesseract (Base de données pour la reconnaissance de mots/chiffres)
+Tesseract-ocr : https://github.com/tesseract-ocr/tesseract?tab=readme-ov-file#installing-tesseract (reconnaissance de mots/chiffres en anglais et français)
 Bibliothéques : pip install opencv-python pytesseract pyttsx3 numpy
 
 # Programmes 
@@ -14,6 +14,6 @@ Ils sont disponibles dans les fichiers du Git
 
 Pour avoir le même résultat, je recommande d'utiliser le PSM 12 pour une meilleure reconnaissance des mots affichées (donc appuyez sur s). Je recommande aussi de baisser la confiance à 45 pour une reconnaissance plus rapide.
 
-Pour le second programme, j'installe une bibliothéque pour pyttsx3 qui va servir a prononcer les mots affichées en français.
+Pour le second programme, j'installe une bibliothéque pour pyttsx3 qui va servir a prononcer les mots/chiffres affichées en français.
 
 
