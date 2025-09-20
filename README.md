@@ -1,5 +1,7 @@
 # ProjetReconnaissance
-Ce projet à pour but de faire de la reconnaissance d'images et de caractères. 
+Ce projet à pour but de faire de la reconnaissance de caractères. 
 
 Voici le résultat : 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/AbdeMoussi/ProjetReconnaissance/blob/main/Capture%20d'%C3%A9cran%202025-09-20%20113415.png) "Resultat")
+<img width="1579" height="891" alt="Capture d'écran 2025-09-20 113415" src="https://github.com/user-attachments/assets/9c640436-dae7-473c-bdc7-16f6147352ac" />
+
+
