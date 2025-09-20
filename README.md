@@ -1,2 +1,4 @@
 # ProjetReconnaissance
-Ce projet à pour but de faire de la reconnaissance d'images et de caractères 
+Ce projet à pour but de faire de la reconnaissance d'images et de caractères. 
+
+Voici le résultat : 
